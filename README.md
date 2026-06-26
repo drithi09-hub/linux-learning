@@ -16,7 +16,7 @@ Build a strong Linux foundation for:
 ## 📚 Learning Roadmap
 
 * ✅ Day 1 – Terminal Basics
-* ⏳ Day 2 – Files & Directories
+* ✅ Day 2 – Files & Directories
 * ⏳ Day 3 – Viewing & Editing Files
 * ⏳ Day 4 – Search & Text Processing
 * ⏳ Day 5 – Permissions & Users
