@@ -19,7 +19,7 @@ Build a strong Linux foundation for:
 * ✅ Day 2 – Files & Directories
 * ✅ Day 3 – Viewing & Editing Files
 * ✅ Day 4 – Search & Text Processing
-* ⏳ Day 5 – Permissions & Users
+* ✅ Day 5 – Permissions & Users
 * ⏳ Day 6 – Package Management
 * ⏳ Day 7 – Processes
 * ⏳ Day 8 – Networking
