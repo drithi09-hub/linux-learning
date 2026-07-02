@@ -21,7 +21,7 @@ Build a strong Linux foundation for:
 * ✅ Day 4 – Search & Text Processing
 * ✅ Day 5 – Permissions & Users
 * ✅ Day 6 – Package Management
-* ⏳ Day 7 – Processes
+* ✅ Day 7 – Processes
 * ⏳ Day 8 – Networking
 * ⏳ Day 9 – Bash Scripting
 * ⏳ Day 10 – Linux Challenge
