@@ -41,4 +41,7 @@ Functions group commands together so they can be reused multiple times within a 
 | `/dev/null` | Discard command output. |
 
 ---
+## 📚 References
 
+- Bash Manual
+- Linux Documentation
