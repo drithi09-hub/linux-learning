@@ -25,7 +25,7 @@ Build a strong Linux foundation for:
 * ✅ Day 8 – Networking
 * ✅ Day 9 – Bash Scripting (Part1)
 * ✅ Day 10 – Bash Scripting (Part2)
-* ⏳ Day 11 – Practical Bash Projects
+* ✅ Day 11 – Practical Bash Projects
 * ⏳ Day 12 – Final Linux Hands-On Challenge
 
 ## 📂 Repository Structure
